@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://blog-template-gray.vercel.app/sitemap-index.xml
+Sitemap: https://benevolent-sherbet-1160c0.netlify.app/sitemap-index.xml

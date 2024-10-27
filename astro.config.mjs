@@ -6,9 +6,11 @@ import { remarkReadingTime } from './src/utils/readTime.ts'
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://blog-template-gray.vercel.app/', // Write here your website url
+	site: 'https://benevolent-sherbet-1160c0.netlify.app/', // Write here your website url
 	markdown: {
-		remarkPlugins: [remarkReadingTime],
+		remarkPlugins: [
+			// remarkReadingTime
+		],
 		drafts: true,
 		shikiConfig: {
 			theme: 'material-theme-palenight',
